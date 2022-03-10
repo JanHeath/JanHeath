@@ -6,11 +6,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML img Tag</title>
+      <title>My photo</title>
    </head>
 
    <body>
-      <img src="https://www.facebook.com/photo/?fbid=1160143631387670&set=a.117099385692105" alt="my photo" width="200" height="80">
+      <img src="https://twitter.com/nofaulplay2016/photo" alt="my photo" width="200" height="80">
    </body>
 </html>
 <!---
